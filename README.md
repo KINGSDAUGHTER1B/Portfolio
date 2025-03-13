@@ -1,1 +1,30 @@
-# Portfolio
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Document</title>
+</head>
+<body>
+    <div class="hero">
+        <div class="nav">
+            <a href="#home">Home</a>
+            <a href="#about">About</a>
+            <a href="#contact">Contact</a>
+        </div>
+        <div class="img">
+            <img src="images/kamillah.jpg" alt="">
+           <p> MY NAME IS KAMILLAH, AND I AM A GRAPHIC DESIGNER</p>
+        </div>
+    </div>
+    <div class="about">
+        <img src="images/istockphoto-1224500457-1024x1024.jpg" alt="">
+        <p>My name is Kamillah Adjani, and i am a graphic designer. My journey started with my love for art. I always wanted to draw something even if it didn't make sense. I am currently schooling in Agape Academy International, and my class and I are working on a school website with the help of our teacher.</p>
+    </div>
+    <div class="contact">
+        <p>Message: perfectgift1b@gmail.com</p>
+
+    </div>
+</body>
+</html>
