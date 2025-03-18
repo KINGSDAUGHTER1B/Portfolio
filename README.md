@@ -7,6 +7,9 @@
     <title>Document</title>
 </head>
 <body>
+    <div class="background">
+        <img src="images/istockphoto-2163017498-1024x1024.jpg" alt="">
+    </div>
     <div class="hero">
         <div class="nav">
             <a href="#home">Home</a>
@@ -15,12 +18,12 @@
         </div>
         <div class="img">
             <img src="images/kamillah.jpg" alt="">
-           <p> MY NAME IS KAMILLAH, AND I AM A GRAPHIC DESIGNER</p>
+           <p> MY NAME IS KAMILLAH, <br>AND I AM A GRAPHIC DESIGNER</p>
         </div>
     </div>
     <div class="about">
         <img src="images/istockphoto-1224500457-1024x1024.jpg" alt="">
-        <p>My name is Kamillah Adjani, and i am a graphic designer. My journey started with my love for art. I always wanted to draw something even if it didn't make sense. I am currently schooling in Agape Academy International, and my class and I are working on a school website with the help of our teacher.</p>
+        <p>My name is Kamillah Adjani, and i am a graphic designer. <br> My journey started with my love for art. I always wanted to draw something even if it didn't make sense. <br>I am currently schooling in Agape Academy International, and my class and I are working on a school website with the help of our teacher.</p>
     </div>
     <div class="contact">
         <p>Message: perfectgift1b@gmail.com</p>
